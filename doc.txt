@@ -5,3 +5,5 @@
 
 
 #lihat graph : MATCH (n)-[r]->(m) RETURN n,r,m
+
+#graph data science di neo4j trus algoritma yang cocok!
