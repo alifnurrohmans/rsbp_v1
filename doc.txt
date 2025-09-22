@@ -1,0 +1,7 @@
+1. buat sebuah database baru di neo4j (database berbasis graph)
+2. jalankan query seed.cypher itu untuk mengisi struktur database
+3. buat app.py & interaksi database dengan api!
+4. web : db dashboard : https://console-preview.neo4j.io/projects/58d1c3e8-1f72-4ec0-9306-f467b6835aed/instances
+
+
+#lihat graph : MATCH (n)-[r]->(m) RETURN n,r,m
